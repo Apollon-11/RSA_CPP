@@ -1,4 +1,4 @@
-RSA (educational implementation)
+<h1>RSA (educational implementation)</h1>
 
 This repository contains an educational implementation of RSA in C++ with a custom `BigInt` type and simple file-based IO. The goal of the project is autonomy and learning - it is not intended for production use.
 
